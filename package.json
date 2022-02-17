@@ -1,0 +1,9 @@
+{
+  "name": "grnhouz",
+  "version": "1.0.0",
+  "description": "all the green in one place",
+  "main": "index.js",
+  "repository": "git@github.com:asleepace/grnhouz.git",
+  "author": "Colin Teahan <colin_teahan@yahoo.com>",
+  "license": "MIT"
+}
